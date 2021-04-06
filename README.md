@@ -16,3 +16,4 @@ git merge (합칠 브랜치) => 현재 브랜치로 합칠 브랜치 병합시�
 
 로컬에서 깃허브로 올리기 : git add ()=> git commit -m "코멘트" => git push origin (브랜치)
 내려받기git fetch 후 git pull origin (브랜치)
+push는 제일 마지막에! commit을 계속해주다가 작업을 마무리할때 push를 하고 건드리지 말기
