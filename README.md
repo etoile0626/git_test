@@ -15,4 +15,4 @@ git branch -a =>가지고 있는 모든 브랜치 확인 가능!
 git merge (합칠 브랜치) => 현재 브랜치로 합칠 브랜치 병합시킴(브랜치는 전부 존재)
 
 로컬에서 깃허브로 올리기 : git add ()=> git commit -m "코멘트" => git push origin (브랜치)
-내려받기 git pull origin (브랜치)
+내려받기git fetch 후 git pull origin (브랜치)
